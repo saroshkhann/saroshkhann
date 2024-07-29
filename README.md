@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarosh Khan</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008018&width=435&lines=Web+developer" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2e9005ebce1ac4fb1eb19970cf606f5a873bef9da0ec25eba4d07b68387e3e/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saroshkhann&label=Profile%20views&color=0e75b6&style=flat" alt="saroshkhann" /> </p>
